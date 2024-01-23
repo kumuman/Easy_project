@@ -1,6 +1,6 @@
 # Easy_project
-some projects for beginner.
+**some projects for beginner.**
 
-The calculator.cpp is the core of the calculator program.
+**The calculator.cpp is the core of the calculator program.**
 
-The main.cpp is used to run the program.
+**The main.cpp is used to run the program.**
